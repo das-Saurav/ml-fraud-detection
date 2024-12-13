@@ -1,5 +1,6 @@
 # ml-fraud-detection
 Using ML algorithms to detect various fraud transactions
+The data source is in the data dictionary file
 
 ## Business Context 
 This case requires trainees to develop a model for predicting fraudulent transactions for a 
